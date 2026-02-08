@@ -20,6 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nails and Nodes"
 title_separator          : "-"
 subtitle                 : "String Data Art"
+codehead_scripts:        "/assets/fotos/nodosconcolores.jpg"
 name                     : "A data art practice that combines social network analysis, string art and digital humanities"
 description              : "by Dra. Sara Arribas Colmenar."
 url                      : "https://letrasendanza.github.io" 
