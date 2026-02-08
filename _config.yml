@@ -28,7 +28,7 @@ baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
 teaser                   : "/assets/fotos/nodosconcolores.jpg"
 logo                     : 
-masthead_title           : "Nails and Nodes: String Data Art"
+masthead_title           : "Nails and Nodes"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
 enable_copy_code_button  : # true, false (default)
