@@ -20,12 +20,13 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nails and Nodes"
 title_separator          : "-"
 subtitle                 : "String Data Art"
+codehead_scripts:        "/assets/fotos/nodosconcolores.jpg"
 name                     : "A data art practice that combines social network analysis, string art and digital humanities"
 description              : "by Dra. Sara Arribas Colmenar."
 url                      : "https://letrasendanza.github.io" 
 baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "/assets/fotos/nodosconcolores.jpg"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
@@ -114,10 +115,10 @@ analytics:
 # Site Author
 author:
   name             : "Dra. Sara Arribas Colmenar"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Data Artist and Professor of Spanish and DH in CNU"
+  avatar           : "/assets/fotos/Headshot.png"
+  bio              : "Data Artist and Professor of Spanish and Digital Humanities in CNU"
   location         : "Newport News"
-  email            :
+  email            :  "sara.arribascolmenar@cnu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
