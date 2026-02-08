@@ -17,9 +17,9 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 # Site Settings
 locale                   : "Newport News"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Nails and Nodes"
+title                    : "Nails and Nodes: String Data Art"
 title_separator          : "-"
-subtitle                 : "String Data Art"
+subtitle                 : "#DhMakes"
 codehead_scripts:        "/assets/fotos/nodosconcolores.jpg"
 name                     : "A data art practice that combines social network analysis, string art and digital humanities"
 description              : "by Dra. Sara Arribas Colmenar."
