@@ -89,8 +89,8 @@ yandex_site_verification :
 baidu_site_verification  :
 
 # Social Sharing
-twitter:
-  username               :
+bluesky:
+  username               :"sararribas.bsky.social"
 facebook:
   username               :
   app_id                 :
@@ -113,10 +113,10 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "Dra. Sara Arribas Colmenar"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Somewhere"
+  bio              : "Data Artist and Professor of Spanish and DH in CNU"
+  location         : "Newport News"
   email            :
   links:
     - label: "Email"
