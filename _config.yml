@@ -27,7 +27,7 @@ url                      : "https://letrasendanza.github.io"
 baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
 teaser                   : "/assets/fotos/nodosconcolores.jpg"
-logo                     : "/assets/fotos/Nails  and Nodes. Logo.png"
+logo                     : 
 masthead_title           : "Nails and Nodes: String Data Art"
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
