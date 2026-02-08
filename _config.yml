@@ -115,9 +115,9 @@ analytics:
 author:
   name             : "Dra. Sara Arribas Colmenar"
   avatar           : "/assets/fotos/Headshot.png"
-  bio              : "Data Artist and Professor of Spanish and DH in CNU"
+  bio              : "Data Artist and Professor of Spanish and Digital Humanities in CNU"
   location         : "Newport News"
-  email            :
+  email            :  "sara.arribascolmenar@cnu.edu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
