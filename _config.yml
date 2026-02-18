@@ -19,13 +19,13 @@ locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
 title                    : "Nails and Nodes: String Data Art"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "#DhMakes"
 name                     : "Your Name"
 description              : "An amazing website."
 url                      :  "https://letrasendanza.github.io/nails-and-nodes/"
 baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
-teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : "assets/fotos/Nails and Nodes. Logo.png"
 logo                     : # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
