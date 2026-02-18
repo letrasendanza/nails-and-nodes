@@ -69,11 +69,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : # true, false (default)
-search                   : # true, false (default)
+search                   : true 
 search_full_content      : # true, false (default)
 search_provider          : # lunr (default), algolia, google
 lunr:
-  search_within_pages    : # true, false (default)
+  search_within_pages    : true 
 algolia:
   application_id         : # YOUR_APPLICATION_ID
   index_name             : # YOUR_INDEX_NAME
@@ -160,7 +160,7 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-  since: "2013"
+  since: "2026"
 
 
 # Reading Files
@@ -241,8 +241,7 @@ paginate_path: /page:num/
 # See https://github.com/sverrirs/jekyll-paginate-v2/blob/master/README-GENERATOR.md#site-configuration
 #   for configuration details
 pagination:
-  # Set enabled to true to use paginate v2
-  # enabled: true
+ enabled: true 
   debug: false
   collection: 'posts'
   per_page: 10
@@ -258,7 +257,16 @@ pagination:
     before: 2
     after: 2
 
-
+---
+title: "Lovely pets"
+layout: home
+permalink: /pets/
+pagination:
+  enabled: true
+  collection:
+    - cat
+    - dog
+---
 # Plugins (previously gems:)
 plugins:
   - jekyll-paginate
