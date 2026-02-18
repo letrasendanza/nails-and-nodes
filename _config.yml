@@ -15,18 +15,15 @@
 minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "Newport News"
-rtl                      : false 
-title                    : "Nails and Nodes: String Data Art"
+locale                   : "en-US"
+rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
+title                    : "Site Title"
 title_separator          : "-"
-subtitle                 : "#DhMakes"
-codehead_scripts:        : []
-name                     : 
-description              :  >-
-  A data art practice created by Sara Arribas Colmenar
-  combining social network analysis, string art, and digital humanities.
-url                      : "https://letrasendanza.github.io"
-baseurl                  : "/nails-and-nodes"
+subtitle                 : # site tagline that appears below site title in masthead
+name                     : "Your Name"
+description              : "An amazing website."
+url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "letrasendanza/nails-and-nodes"
 teaser                   : "/assets/fotos/nodosconcolores.jpg"
 logo                     : "/assets/fotos/Nails  and Nodes. Logo.png"
