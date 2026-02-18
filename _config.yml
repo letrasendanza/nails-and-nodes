@@ -27,6 +27,10 @@ baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
 teaser                   : "/assets/fotos/Nails and Nodes. Logo.png"
 logo                     : "/assets/fotos/nodosconcolores.jpg"
+excerpt: "This post should display a **header with an overlay image**, if the theme supports it."
+header:
+  overlay_image: /assets/fotos/nodosconcolores.jpg
+  caption: "Nails and Nodes"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : # true, false (default)
 words_per_minute         : 200
