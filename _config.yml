@@ -20,7 +20,7 @@ rtl                      : # true, false (default) # turns direction of the page
 title                    : "Nails and Nodes: String Data Art"
 title_separator          : "-"
 subtitle                 : "#DhMakes"
-codehead_scripts:        :
+codehead_scripts:        : []
 name                     : 
 description              : 
 url                      : "https://letrasendanza.github.io"
