@@ -23,7 +23,7 @@ subtitle                 : "#DhMakes"
 codehead_scripts:        :
 name                     : 
 description              : 
-url                      : "https://letrasendanza.github.io" 
+url                      : "https://letrasendanza.github.io"
 baseurl                  : "/nails-and-nodes"
 repository               : "letrasendanza/nails-and-nodes"
 teaser                   : "/assets/fotos/nodosconcolores.jpg"
