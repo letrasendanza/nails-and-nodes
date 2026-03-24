@@ -1,12 +1,12 @@
 main:
-  - title: "{{ site.data.translations[site.lang].blog }}"
+  - title: "Blog"
     url: /blog/
 
-  - title: "{{ site.data.translations[site.lang].materials }}"
+  - title: "Materials"
     url: /materials/
 
-  - title: "{{ site.data.translations[site.lang].step }}"
+  - title: "Step by Step"
     url: /step-by-step/
 
-  - title: "{{ site.data.translations[site.lang].dhmakes }}"
+  - title: "DHMakes Resources"
     url: /dhmakes/
