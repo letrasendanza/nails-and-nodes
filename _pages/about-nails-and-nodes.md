@@ -21,11 +21,6 @@ excerpt: "Nails and Nodes transforms cultural networks into physical artworks ma
     class="nn-logo"
   >
 
-  <div>
-    <h2>¿Qué es Nudos y Nodos?</h2>
-  </div>
-
-</div>
 
 <p>
 <strong>Nudos y Nodos</strong>, o <strong>Nails and Nodes</strong>, es un proyecto de arte de datos y humanidades digitales que transforma redes culturales en piezas físicas construidas con hilos, clavos y materiales reutilizados.
