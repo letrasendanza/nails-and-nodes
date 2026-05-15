@@ -16,7 +16,7 @@ excerpt: "Nails and Nodes transforms cultural networks into physical artworks ma
 <div class="nn-title-block">
 
   <img 
-    src="{{ '/assets/fotos/nails-and-nodes-logo.png' | relative_url }}" 
+    src="{{ '/assets/fotos/LogoNailsandNodes.png' | relative_url }}" 
     alt="Nails and Nodes Logo"
     class="nn-logo"
   >
@@ -34,26 +34,15 @@ excerpt: "Nails and Nodes transforms cultural networks into physical artworks ma
 <p>
 A través de la investigación archivística, el Análisis de Redes Sociales (ARS) y las manualidades, el proyecto explora cómo artistas, escritores, bailarinas, músicos e intelectuales dieron forma a los espacios culturales de la España de principios del siglo XX.
 </p>
-
-<figure>
-  <img src="{{ '/assets/fotos/RelacionesPersonales.jpg' | relative_url }}" alt="Relaciones personales">
-  <figcaption>Conexiones personales, artísticas y culturales.</figcaption>
-</figure>
-
 <p>
 En el centro del proyecto existe una pregunta sencilla:
 </p>
-
-<div class="nn-callout">
-  <p><strong>¿Qué relaciones sostienen la historia cultural?</strong></p>
-</div>
-
-<p>
-Detrás de cada movimiento artístico, representación escénica o transformación cultural existen conexiones invisibles: colaboraciones, encuentros, amistades, influencias y ausencias que muchas veces permanecen dispersas en los archivos.
-</p>
+<figure>
+  <img src="{{ '/assets/fotos/RelacionesPersonales.jpg' | relative_url }}" alt="Relaciones personales">
+</figure>
 
 <p>
-Nails and Nodes busca recuperar esas constelaciones humanas y hacer visibles las relaciones que sostuvieron la modernidad artística española.
+Detrás de cada movimiento artístico, representación escénica o transformación cultural existen conexiones invisibles: colaboraciones, encuentros, amistades, influencias y ausencias que muchas veces permanecen dispersas en los archivos.Nails and Nodes busca recuperar esas constelaciones humanas y hacer visibles las relaciones que sostuvieron la modernidad artística española.
 </p>
 
 <p>
@@ -62,29 +51,26 @@ El proyecto combina métodos digitales, investigación histórica y procesos art
 
 ---
 
-## ¿Qué es el Hilorama de Datos?
+  <h2>¿Qué es el Hilorama de Datos?</h2>
 
 <p>
-El <strong>Hilorama de Datos</strong> (<em>Data String Art</em>) es una práctica original de investigación-creación.
+El <strong>Hilorama de Datos</strong> (<em>Data String Art</em>) es una práctica original de investigación-creación. Todo comienza en el archivo: programas de teatro, notas de prensa, fotografías, cartas y otros documentos históricos son recopilados, digitalizados y organizados para reconstruir las relaciones entre personas, espacios culturales y eventos artísticos.
 </p>
 
 <p>
-Todo comienza en el archivo: programas de teatro, notas de prensa, fotografías, cartas y otros documentos históricos son recopilados, digitalizados y organizados para reconstruir las relaciones entre personas, espacios culturales y eventos artísticos.
+A partir de esa información, las redes se visualizan digitalmente mediante herramientas de Análisis de Redes realizado con el software <strong>Gephi</strong>.Si quieres saber más sobre la parte digital y la metodología puedes leer mi artículo 
+<a href="https://revistas.uned.es/index.php/RHD/article/view/42787" target="_blank">
+<em>“Constelaciones de artistas: análisis y teoría de redes aplicado a la danza y el teatro español (1914-1934)”</em>
+</a>.
 </p>
-
-<p>
-A partir de esa información, las redes se visualizan digitalmente mediante herramientas de Análisis de Redes realizado con el software <strong>Gephi</strong>.
-</p>
-
-<figure>
-  <img src="{{ '/assets/fotos/GrafoArtistico.png' | relative_url }}" alt="Grafo artístico">
-  <figcaption>Visualización digital de redes culturales.</figcaption>
-</figure>
 
 <p>
 En pantalla, esas conexiones aparecen como grafos formados por nodos y líneas. Sin embargo, el proceso no termina ahí. Las redes pasan entonces del plano digital al físico.
 </p>
-
+<figure>
+  <img src="{{ '/assets/fotos/GrafoArtistico.png' | relative_url }}" alt="Grafo artístico">
+  <figcaption>Visualización digital de redes culturales.</figcaption>
+</figure>
 <div class="nn-callout">
   <p><strong>Los nodos se convierten en clavos.</strong></p>
   <p><strong>Las conexiones se transforman en hilos.</strong></p>
@@ -97,7 +83,7 @@ Cada pieza se construye manualmente tensando hilo entre distintos puntos para re
 
 ---
 
-## Del archivo al hilo
+<h2>Del archivo al hilo</h2>
 
 <p>
 Cada pieza de Nails and Nodes nace en el archivo.
@@ -125,7 +111,7 @@ Este retorno constante a los datos y a los documentos originales abre un espacio
 
 ---
 
-## ¿Por qué materializar los datos?
+<h2>¿Por qué materializar los datos?</h2>
 
 <p>
 Nails and Nodes no busca reemplazar la visualización digital, sino explorar qué ocurre cuando los datos abandonan la pantalla y entran en el espacio físico.
@@ -160,7 +146,7 @@ Invita a detenerse, volver a mirar y pensar más despacio los datos, las metodol
 
 ---
 
-## Una práctica de memoria y atención
+<h2>Una práctica de memoria, cuidados y atención</h2>
 
 <p>
 Más allá del objeto final, cada pieza representa un ejercicio de atención sostenida.
