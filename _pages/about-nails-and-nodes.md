@@ -62,6 +62,7 @@ El <strong>Hilorama de Datos</strong> (<em>Data String Art</em>) es una práctic
 A partir de esa información, las redes se visualizan digitalmente mediante herramientas de Análisis de Redes realizado con el software <strong>Gephi</strong>.Si quieres saber más sobre la parte digital y la metodología puedes leer mi artículo 
 <a href="https://revistas.uned.es/index.php/RHD/article/view/42787" target="_blank">
 <em>“Constelaciones de artistas: análisis y teoría de redes aplicado a la danza y el teatro español (1914-1934)”</em>
+</a>
 </p>
 
 <p>
