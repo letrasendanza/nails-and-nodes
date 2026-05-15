@@ -1,12 +1,12 @@
 main:
   - title: "Blog"
     url: /blog/
-
-  - title: "Data Art Pieces"
-    url: /data-art-pieces/
-
-  - title: "Step by Step"
+    
+ - title: "Step by Step"
     url: /step-by-step/
+    
+  - title: "About Nails and Nodes"
+    url: /aboutnaildandnodes/
 
   - title: "DHMakes Resources"
     url: /dhmakes/
