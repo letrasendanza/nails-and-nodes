@@ -11,7 +11,7 @@ author_profile: true
 <div class="nn-title-block">
 
   <img 
-    src="{{ '/assets/fotos/nails-and-nodes-logo.png' | relative_url }}" 
+    src="{{ '/assets/fotos/LogoNailsandNodes.png' | relative_url }}" 
     alt="Nails and Nodes Logo"
     class="nn-logo"
   >
