@@ -4,11 +4,6 @@ layout: single
 permalink: /about-nails-and-nodes/
 author_profile: true
 
-header:
-  overlay_image: /assets/fotos/RelacionesPersonales.jpg
-  overlay_filter: 0.45
-
-excerpt: "Nails and Nodes transforms cultural networks into physical artworks made with thread, nails, archival research, and digital humanities."
 ---
 
 <div class="about-nn">
