@@ -6,5 +6,5 @@ author_profile: true
 
 header:
   overlay_image: /assets/fotos/Detalles.jpg
-  overlay_filter: 0.35
+  overlay_filter: 0.5
 ---
