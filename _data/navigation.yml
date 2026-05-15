@@ -1,12 +1,13 @@
 main:
   - title: "Blog"
     url: /blog/
+
+     - title: "About Nails and Nodes"
+    url: /about-nails-and-nodes/
     
  - title: "Step by Step"
     url: /step-by-step/
     
-  - title: "About Nails and Nodes"
-    url: /about-nails-and-nodes/
 
   - title: "DHMakes Resources"
     url: /dhmakes/
