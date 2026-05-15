@@ -2,26 +2,28 @@
 title: "About Nails and Nodes"
 layout: single
 permalink: /about-nails-and-nodes/
-author_profile: false
-classes: wide
+author_profile: true
 
 header:
-  overlay_image: /assets/fotos/nodosconcolores.jpg
+  overlay_image: /assets/fotos/RelacionesPersonales.jpg
   overlay_filter: 0.45
 
 excerpt: "Nails and Nodes transforms cultural networks into physical artworks made with thread, nails, archival research, and digital humanities."
-
 ---
 
 <div class="about-nn">
 
-<div class="nn-logo-main">
+<div class="nn-title-block">
 
   <img 
-    src="{{ '/assets/fotos/LogoNailsandNodes.png' | relative_url }}" 
+    src="{{ '/assets/fotos/nails-and-nodes-logo.png' | relative_url }}" 
     alt="Nails and Nodes Logo"
-    class="nn-logo-large"
+    class="nn-logo"
   >
+
+  <div>
+    <h2>¿Qué es Nudos y Nodos?</h2>
+  </div>
 
 </div>
 
@@ -36,41 +38,44 @@ A través de la investigación archivística, el Análisis de Redes Sociales (AR
 <p>
 En el centro del proyecto existe una pregunta sencilla:
 </p>
-
 <figure>
   <img src="{{ '/assets/fotos/RelacionesPersonales.jpg' | relative_url }}" alt="Relaciones personales">
 </figure>
 
+
 <p>
-Detrás de cada movimiento artístico, representación escénica o transformación cultural existen conexiones invisibles: colaboraciones, encuentros, amistades, influencias y ausencias que muchas veces permanecen dispersas en los archivos. Nails and Nodes busca recuperar esas constelaciones humanas y hacer visibles las relaciones que sostuvieron la modernidad artística española.
+Detrás de cada movimiento artístico, representación escénica o transformación cultural existen conexiones invisibles: colaboraciones, encuentros, amistades, influencias y ausencias que muchas veces permanecen dispersas en los archivos.
+</p>
+
+<p>
+Nails and Nodes busca recuperar esas constelaciones humanas y hacer visibles las relaciones que sostuvieron la modernidad artística española.
 </p>
 
 <p>
 El proyecto combina métodos digitales, investigación histórica y procesos artesanales para convertir los datos en algo tangible y material, pero sobre todo en algo profundamente humano y emocional.
 </p>
 
-<h2>¿Qué es el Hilorama de Datos?</h2>
+---
+
+  <h2>¿Qué es el Hilorama de Datos?</h2>
 
 <p>
 El <strong>Hilorama de Datos</strong> (<em>Data String Art</em>) es una práctica original de investigación-creación. Todo comienza en el archivo: programas de teatro, notas de prensa, fotografías, cartas y otros documentos históricos son recopilados, digitalizados y organizados para reconstruir las relaciones entre personas, espacios culturales y eventos artísticos.
 </p>
 
 <p>
-A partir de esa información, las redes se visualizan digitalmente mediante herramientas de Análisis de Redes realizado con el software <strong>Gephi</strong>. Si quieres saber más sobre la parte digital y la metodología puedes leer mi artículo 
+A partir de esa información, las redes se visualizan digitalmente mediante herramientas de Análisis de Redes realizado con el software <strong>Gephi</strong>.Si quieres saber más sobre la parte digital y la metodología puedes leer mi artículo 
 <a href="https://revistas.uned.es/index.php/RHD/article/view/42787" target="_blank">
 <em>“Constelaciones de artistas: análisis y teoría de redes aplicado a la danza y el teatro español (1914-1934)”</em>
-</a>.
 </p>
 
 <p>
 En pantalla, esas conexiones aparecen como grafos formados por nodos y líneas. Sin embargo, el proceso no termina ahí. Las redes pasan entonces del plano digital al físico.
 </p>
-
 <figure>
   <img src="{{ '/assets/fotos/GrafoArtistico.png' | relative_url }}" alt="Grafo artístico">
   <figcaption>Visualización digital de redes culturales.</figcaption>
 </figure>
-
 <div class="nn-callout">
   <p><strong>Los nodos se convierten en clavos.</strong></p>
   <p><strong>Las conexiones se transforman en hilos.</strong></p>
@@ -80,6 +85,8 @@ En pantalla, esas conexiones aparecen como grafos formados por nodos y líneas. 
 <p>
 Cada pieza se construye manualmente tensando hilo entre distintos puntos para reconstruir físicamente las relaciones descubiertas durante la investigación digital.
 </p>
+
+---
 
 <h2>Del archivo al hilo</h2>
 
@@ -107,6 +114,8 @@ Este retorno constante a los datos y a los documentos originales abre un espacio
   <p><strong>El trabajo creativo desacelera la investigación digital.</strong></p>
 </div>
 
+---
+
 <h2>¿Por qué materializar los datos?</h2>
 
 <p>
@@ -126,10 +135,10 @@ El proceso artesanal recuerda que toda base de datos está construida a partir d
 </p>
 
 <ul>
-  <li>qué se conserva</li>
-  <li>qué desaparece</li>
-  <li>qué relaciones se priorizan</li>
-  <li>y qué silencios permanecen</li>
+<li>qué se conserva</li>
+<li>qué desaparece</li>
+<li>qué relaciones se priorizan</li>
+<li>y qué silencios permanecen.</li>
 </ul>
 
 <p>
@@ -140,7 +149,9 @@ Cada hilo contiene tanto información como incertidumbre.
 Invita a detenerse, volver a mirar y pensar más despacio los datos, las metodologías y las decisiones tomadas durante el proceso de investigación.
 </p>
 
-<h2>Una práctica de memoria, cuidados y atención</h2>
+---
+
+<h2>Una práctica de memoria y atención</h2>
 
 <p>
 Más allá del objeto final, cada pieza representa un ejercicio de atención sostenida.
@@ -163,18 +174,14 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   <p>También son personas, gestos, ausencias e historias esperando volver a ser visibles.</p>
 </div>
 
-<div class="nn-citation">
-
-  <h2>Cómo citar</h2>
-
-  <p>
+</div>
+ <p>
     Puedes citar esta página así:
   </p>
 
   <p class="citation-text">
     Arribas Colmenar, Sara. “About Nails and Nodes.” <em>Nails and Nodes: String Data Art</em>, 26 Apr. 2026, https://letrasendanza.github.io/nails-and-nodes/about-nails-and-nodes/.
   </p>
-
 </div>
 
 </div>
@@ -189,7 +196,11 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 }
 
 .about-nn h2 {
-  margin-top: 3rem;
+  margin-top: 0;
+}
+
+.about-nn h2,
+.about-nn h3 {
   margin-bottom: 1.5rem;
 }
 
@@ -214,14 +225,15 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   opacity: 0.75;
 }
 
-.nn-logo-main {
-  text-align: center;
-  margin: 2rem auto 4rem auto;
+.nn-title-block {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+  margin-bottom: 2rem;
 }
 
-.nn-logo-large {
-  width: 360px;
-  max-width: 90%;
+.nn-logo {
+  width: 130px;
   height: auto;
 }
 
@@ -243,31 +255,6 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   background: #f4f4f4;
   text-align: center;
   font-size: 1.15rem;
-}
-
-.nn-citation {
-  margin: 4rem auto 2rem auto;
-  padding: 2rem;
-  background: #fafafa;
-  border: 1px solid #ddd;
-  border-left: 5px solid #555;
-}
-
-.nn-citation h2 {
-  margin-top: 0;
-}
-
-.citation-text {
-  font-size: 0.95rem;
-  line-height: 1.7;
-}
-
-@media (max-width: 700px) {
-
-  .nn-logo-large {
-    width: 250px;
-  }
-
 }
 
 </style>
