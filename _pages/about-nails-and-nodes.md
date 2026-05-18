@@ -203,11 +203,11 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 <p>Each thread mixes information and uncertainty.</p>
 
 
-<p>The process invites us to pause and look again — to spend more time thinking about the data, the methodological decisions behind it, and above all to remember that historical research always works through partial reconstructions. </p>
-<p>The process invites us to pause and look again, to spend more time thinking about the data, the methodological decisions behind it. Above all invites us to remember that historical research always works through partial reconstructions. </p>
+<p>During that creative pause, new questions arise, and we are reminded of the humility with which academic research must be approached.The process invites us to pause and look again — to spend more time thinking about the data, the methodological decisions behind it, and above all to remember that historical research always works through partial reconstructions. </p>
+
  <p>Reconstructions we deeply wish to inhabit, reconstructions we hope are accurate, yet reconstructions that remain imperfect, just like ourselves. In that creative pause, new questions emerge, along with a renewed sense of humility toward academic research. </p>
 <p>The goal is not a perfect answer, but to pursue it. Searching for it again and again: to reflect on why we do what we do, and how we do it, so we can be closer to the realities we seek to understand. </p>
-<p>From this perspective, Data String Art functions not only as a visualization technique, but also as a form of critical reflection on the research processes behind digital humanities scholarship. </p>
+<p>From this perspective, Data String Art functions not only as a data visualization technique, but also as a form of critical reflection on the research processes behind digital humanities scholarship. </p>
 
 <h2>A Practice of Memory, Attention and Care</h2>
 
