@@ -94,7 +94,7 @@ author_profile: true
 
 <p>Entonces, en esa pausa creativa aparecen nuevas preguntas y recordamos la humildad con la que se debe abordar la investigación académica.El proceso nos invita a parar para volver a mirar, para tener más tiempo para pensar en los datos, las decisiones metodológicas que se tomaron y sobre todo, invita a recordar que lo que tenemos siempre con estudios históricos son reconstrucciones parciales. Esas reconstrucciones parciales en las que tanto queremos sumergirnos, reconstrucciones que esperamos que sean exactas, pero con son imperfectas como nosotras. </p>
 
-<p>En esa pausa creativa  aparecen nuevas preguntas y recordamos la humildad con la que se debe abordar la investigación académica. No se trata de tener la respuesta perfecta, sino de intentar buscarla una y otra vez, pensar porqué hacemos lo que hacemos y cómo lo hacemos para poder estar un poco más cerca de aquella realidad. </p>
+<p> No se trata de tener la respuesta perfecta, sino de intentar buscarla una y otra vez, pensar porqué hacemos lo que hacemos y cómo lo hacemos para poder estar un poco más cerca de aquella realidad. </p>
 
 <p>Desde esta perspectiva, el Hilorama de Datos no funciona únicamente como una técnica de visualización, sino también como una forma de reflexión crítica sobre los procesos de investigación en humanidades digitales. </p>
 
