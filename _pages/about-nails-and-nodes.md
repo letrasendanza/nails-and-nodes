@@ -1,5 +1,5 @@
 ---
-title: "About Nails and Nodes"
+title: "About Nails and Nodes (Spanish and English bellow)"
 layout: single
 permalink: /about-nails-and-nodes/
 author_profile: true
