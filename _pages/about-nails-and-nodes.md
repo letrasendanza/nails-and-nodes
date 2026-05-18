@@ -16,9 +16,6 @@ author_profile: true
     class="nn-logo"
   >
 
-  <div>
-    <h2>¿Qué es Nudos y Nodos?</h2>
-  </div>
 
 </div>
 
@@ -70,7 +67,7 @@ En pantalla, esas conexiones aparecen como grafos formados por nodos y líneas. 
 </p>
 <figure>
   <img src="{{ '/assets/fotos/GrafoArtistico.png' | relative_url }}" alt="Grafo artístico">
-  <figcaption>Visualización digital de redes culturales.</figcaption>
+  <figcaption>Visualización de un grafo en Hilorama.</figcaption>
 </figure>
 <div class="nn-callout">
   <p><strong>Los nodos se convierten en clavos.</strong></p>
@@ -91,7 +88,7 @@ Cada pieza de Nails and Nodes nace en el archivo.
 </p>
 
 <p>
-Nombres, encuentros, colaboraciones y espacios culturales son extraídos de documentos históricos y transformados en bases de datos que permiten visualizar relaciones y patrones difíciles de percibir mediante una lectura tradicional.
+Nombres, encuentros, colaboraciones y espacios culturales se obtienen de documentos históricos y se transforman en bases de datos que permiten visualizar relaciones y patrones difíciles de percibir mediante una lectura tradicional.
 </p>
 
 <p>
@@ -103,7 +100,7 @@ A medida que cada hilo se coloca manualmente, la red debe recorrerse nuevamente 
 </p>
 
 <p>
-Este retorno constante a los datos y a los documentos originales abre un espacio para la reflexión, la revisión y el cuestionamiento crítico.
+Este retorno constante a los datos y a los documentos originales abre un espacio para la reflexión, la revisión y el cuestionamiento crítico constante.
 </p>
 
 <div class="nn-callout">
@@ -123,7 +120,7 @@ Las visualizaciones digitales permiten identificar patrones complejos, pero tamb
 </p>
 
 <p>
-Al materializar las redes mediante hilos y tensión física, el proyecto reintroduce tiempo, fragilidad, textura y presencia dentro del proceso de visualización.
+Al materializar las redes a través de hilos que se van tensando, el proyecto reintroduce tiempo, fragilidad, textura y presencia dentro del proceso de visualización.
 </p>
 
 <p>
@@ -138,23 +135,23 @@ El proceso artesanal recuerda que toda base de datos está construida a partir d
 </ul>
 
 <p>
-Cada hilo contiene tanto información como incertidumbre.
+Cada hilo y clavo contienen tanto información como incertidumbre.
 </p>
 
 <p>
-Invita a detenerse, volver a mirar y pensar más despacio los datos, las metodologías y las decisiones tomadas durante el proceso de investigación.
+Invita a detenerse, volver a mirar y pensar más despacio los datos, las metodologías y las decisiones que tomamos durante el proceso de investigación.
 </p>
 
 ---
 
-<h2>Una práctica de memoria y atención</h2>
+<h2>Una práctica de memoria, atención y cuidadon</h2>
 
 <p>
 Más allá del objeto final, cada pieza representa un ejercicio de atención sostenida.
 </p>
 
 <p>
-La repetición de tensar hilos, volver a escribir nombres y reconstruir encuentros transforma la visualización de redes en una práctica de memoria.
+La repetición de tensar hilos, volver a escribir nombres y reconstruir encuentros transforma la visualización de redes en una práctica de memoria.El objetivo no es el final de la pieza, sino el propio proceso de construirla
 </p>
 
 <p>
@@ -178,8 +175,6 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   <p class="citation-text">
     Arribas Colmenar, Sara. “About Nails and Nodes.” <em>Nails and Nodes: String Data Art</em>, 26 Apr. 2026, https://letrasendanza.github.io/nails-and-nodes/about-nails-and-nodes/.
   </p>
-</div>
-
 </div>
 
 <style>
