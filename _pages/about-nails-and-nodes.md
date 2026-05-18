@@ -180,7 +180,7 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 <p>This constant return to the data and to the original documents creates space for reflection, revision, and critical questioning.</p>
 
 <div class="nn-callout">
-  <p><strong>Creative labor slows down digital research.</strong></p>
+  <p><strong>Creative labor intentionally slows down digital research.</strong></p>
 </div>
 
 <h2>Why Materialize Data?</h2>
@@ -217,7 +217,7 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   <h2>How to cite</h2>
 
   <p class="citation-text">
-    Arribas Colmenar, Sara. “About Nails and Nodes.” <em>Nails and Nodes: String Data Art</em>, 26 Apr. 2026, https://letrasendanza.github.io/nails-and-nodes/about-nails-and-nodes/.
+    Arribas Colmenar, Sara. “About Nails and Nodes.” <em>Nails and Nodes: String Data Art</em>, June. 2026, https://letrasendanza.github.io/nails-and-nodes/about-nails-and-nodes/.
   </p>
 </div>
 
