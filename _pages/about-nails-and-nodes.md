@@ -94,7 +94,7 @@ author_profile: true
 
 <p>Entonces, en esa pausa creativa aparecen nuevas preguntas y recordamos la humildad con la que se debe abordar la investigación académica.El proceso nos invita a parar para volver a mirar, para tener más tiempo para pensar en los datos, las decisiones metodológicas que se tomaron y sobre todo, invita a recordar que lo que tenemos siempre con estudios históricos son reconstrucciones parciales. Esas reconstrucciones parciales en las que tanto queremos sumergirnos, reconstrucciones que esperamos que sean exactas, pero con son imperfectas como nosotras. </p>
 
-<p>Entonces, en esa pausa creativa  aparecen nuevas preguntas y recordamos la humildad con la que se debe abordar la investigación académica. No se trata de tener la respuesta perfecta, sino de intentar buscarla una y otra vez, pensar porqué hacemos lo que hacemos y cómo lo hacemos para poder estar un poco más cerca de aquella realidad. </p>
+<p>En esa pausa creativa  aparecen nuevas preguntas y recordamos la humildad con la que se debe abordar la investigación académica. No se trata de tener la respuesta perfecta, sino de intentar buscarla una y otra vez, pensar porqué hacemos lo que hacemos y cómo lo hacemos para poder estar un poco más cerca de aquella realidad. </p>
 
 <p>Desde esta perspectiva, el Hilorama de Datos no funciona únicamente como una técnica de visualización, sino también como una forma de reflexión crítica sobre los procesos de investigación en humanidades digitales. </p>
 
@@ -202,11 +202,22 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 
 <p>Each thread mixes information and uncertainty.</p>
 
+
+<p>The process invites us to pause and look again — to spend more time thinking about the data, the methodological decisions behind it, and above all to remember that historical research always works through partial reconstructions. </p>
+<p>The process invites us to pause and look again, to spend more time thinking about the data, the methodological decisions behind it. Above all invites us to remember that historical research always works through partial reconstructions. </p>
+ <p>Reconstructions we deeply wish to inhabit, reconstructions we hope are accurate, yet reconstructions that remain imperfect, just like ourselves. In that creative pause, new questions emerge, along with a renewed sense of humility toward academic research. </p>
+<p>The goal is not a perfect answer, but to pursue it. Searching for it again and again: to reflect on why we do what we do, and how we do it, so we can be closer to the realities we seek to understand. </p>
+<p>From this perspective, Data String Art functions not only as a visualization technique, but also as a form of critical reflection on the research processes behind digital humanities scholarship. </p>
+
 <h2>A Practice of Memory, Attention and Care</h2>
 
 <p>Beyond the final object, each piece represents an exercise in sustained attention.</p>
 
-<p>The repetition of tensioning thread, rewriting names, and reconstructing encounters transforms network visualization into a practice of memory.</p>
+<p>The repetition of tensioning thread, rewriting names, and reconstructing encounters transforms network visualization into a practice of memory.The goal is not the finished piece, but the process of creating it</p>
+<p>The artworks invite viewers to think about cultural history not as a collection of isolated figures, but as a web of collaborations, affections, and collective connections. </p>
+
+<p>Through this combination of archives, data, visualization, and handcrafted labor, Nails and Nodes seeks to reconnect digital methodologies with the material and emotional traces that accompany all historical research.  </p>
+
 
 <div class="nn-ending">
   <p><strong>Because networks are never only data.</strong></p>
