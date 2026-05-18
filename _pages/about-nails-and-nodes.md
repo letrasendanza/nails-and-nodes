@@ -183,7 +183,7 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
   <p><strong>Creative labor intentionally slows down digital research.</strong></p>
 </div>
 
-<h2>Why Materialize Data?</h2>
+<h2>Why physicalize Data?</h2>
 
 <p>Nails and Nodes does not seek to replace digital visualization, but rather to explore what happens when data leaves the screen and enters physical space.</p>
 
