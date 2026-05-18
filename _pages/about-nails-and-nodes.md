@@ -117,7 +117,7 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 </div>
 
 <div class="nn-citation">
-  <h2>Cómo citar</h2>
+  <h2>Como citar</h2>
 
   <p class="citation-text">
     Arribas Colmenar, Sara. “About Nails and Nodes.” <em>Nails and Nodes: String Data Art</em>, 26 Apr. 2026, https://letrasendanza.github.io/nails-and-nodes/about-nails-and-nodes/.
