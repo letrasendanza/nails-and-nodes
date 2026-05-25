@@ -10,3 +10,27 @@ main:
 
   - title: "DHMakes Resources"
     url: /dhmakes/
+    
+step_by_step:
+  - title: "Step by Step"
+    children:
+      - title: "Materiales"
+        url: /step-by-step/#materiales
+
+      - title: "Boceto Digital"
+        url: /step-by-step/#boceto-digital
+
+      - title: "Preparación de la base"
+        url: /step-by-step/#preparacion-de-la-base
+
+      - title: "Proyección de la pieza"
+        url: /step-by-step/#proyeccion-de-la-pieza
+
+      - title: "Los nodos"
+        url: /step-by-step/#los-nodos
+
+      - title: "Los edges"
+        url: /step-by-step/#los-edges
+
+      - title: "Escaneo y mapa digital"
+        url: /step-by-step/#escaneo-y-mapa-digital
