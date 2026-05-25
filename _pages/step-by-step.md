@@ -103,25 +103,49 @@ Sometimes I have also used smaller wooden panels for legends.
 </div>
 
 
-<h2 id="boceto-digital">Boceto Digital</h2>
+<h2 id="boceto-digital">Boceto digital</h2>
 
 <p>
-El boceto digital es el primer momento en el que los datos empiezan a adquirir una forma visual. Antes de tocar la base, los clavos o los hilos, trabajo con la red en formato digital para entender su estructura, sus comunidades, sus relaciones principales y las posibles formas de trasladarla al espacio físico.
+Como podéis leer en About Nails and Nodes, cada pieza comienza siempre con un trabajo de archivo, investigación y digitalización de las redes de colaboración. Durante este proceso se suelen crear dos bases de datos en Excel: una dedicada a catalogar a las personas que forman parte de la red y otra centrada en los eventos, espacios o piezas artísticas en las que esas personas coincidieron, colaboraron o interactuaron.
 </p>
 
 <p>
-En esta fase puedo usar herramientas como Gephi para visualizar la red, probar distribuciones, observar agrupaciones y decidir qué relaciones serán más importantes en la pieza final.
-</p>
-
-<h2 id="preparacion-de-la-base">Preparación de la base</h2>
-
-<p>
-La preparación de la base depende mucho de cada pieza. A veces utilizo madera, otras veces materiales reciclados o restos de obra. La base se limpia, se adapta, se pinta si es necesario y se prepara para recibir la proyección del grafo.
+Cuando toda esa información está organizada, los datos se trasladan a Gephi para generar una primera visualización digital de la red. Ese momento es importante porque la red empieza, poco a poco, a hacerse visible: aparecen conexiones, comunidades y relaciones que antes solo existían dispersas entre documentos, programas o recortes de prensa.
 </p>
 
 <p>
-Esta fase es importante porque la base no es solo un soporte: también forma parte de la materialidad de la pieza.
+A partir de esa visualización inicial en Gephi, realizo una edición preliminar en Canva que funciona como un primer boceto digital de la pieza. Este fue, por ejemplo, el caso del boceto de String Data Art sobre el Concurso de Cante Jondo. Trabajar previamente en Canva me ayuda mucho porque puedo experimentar con el diseño. Incluso cuando quiero editar las imágenes de las redes para publicar un artículo o cuando escribía la tesis me gustó mucho usar Canva para la imagen estática de la red, porque me permitió crear leyendas y sistemas visuales más claros e intuitivos que los generados directamente desde Gephi. Además, como en Canva se pueden crear documentos con las medidas que quieras, puedo ajustar las medidas exactas de las bases sobre las que después construiré la pieza física.
 </p>
+
+<figure>
+  <img src="{{ '/assets/fotos/BocetodigitalCJ.png' | relative_url }}" alt="Boceto digital Concurso de Cante Jondo">
+</figure>
+
+<p>
+En esta fase también incorporo los materiales de archivo que acompañarán la composición final como fotografías, programas, ilustraciones o recortes de prensa. Así empiezo a pensar no solo en la estructura de la red, sino también en la memoria visual y material que rodea a esas conexiones, el tipo de testimonio material que nos ha quedado, las imágenes o patrones visuales más repetidos.
+</p>
+
+<div class="home-text-en">
+
+<h3>English</h3>
+
+<p>
+As you can read in About Nails and Nodes, each piece always begins with archival research and the digitization of collaborative networks. During this process, two Excel databases are created: one to catalogue the people who are part of the network, and another focused on the events, venues, or artistic works where those people met, collaborated, or interacted.
+</p>
+
+<p>
+Once all the information has been organized, the data is imported into Gephi for an initial digital visualization of the network. At this point, the network begins, little by little, to take shape: connections, communities, and relationships emerge that previously existed only in dispersed documents, programs, or newspaper clippings.
+</p>
+
+<p>
+Based on that initial visualization in Gephi, I create a rough draft in Canva, which serves as a first digital sketch of the piece. This was the case, for example, with the String Data Art sketch for the Cante Jondo Contest. Working in Canva first is very helpful because it allows me to experiment with the design. Even when I want to edit images of the networks to publish an article, or when I was writing my dissertation, I really liked using Canva for the static network image. It allowed me to create legends and visual systems that were clearer and more intuitive than those generated directly from Gephi. Plus, since you can create custom-sized documents in Canva, I can adjust the exact dimensions of the bases on which I’ll later build the physical piece.
+</p>
+
+<p>
+In this phase, I also incorporate archival materials that will form part of the final composition, such as photographs, programs, illustrations, and press clippings. By doing so, I begin to consider not only the structure of the network, but also the visual and material memory surrounding those connections, the types of material records we have that bear witness to them, and the most frequently recurring images or visual patterns.
+</p>
+
+</div>
 
 <h2 id="proyeccion-de-la-pieza">Proyección de la pieza</h2>
 
