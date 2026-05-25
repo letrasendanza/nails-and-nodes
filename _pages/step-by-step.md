@@ -22,6 +22,7 @@ sidebar:
 Cada pieza de Nails and Nodes ha seguido procesos distintos, sin embargo aquí te dejo el paso a paso general de las piezas.
 </p>
 
+<p> <em>Each piece from Nails and Nodes has been created using different processes, but here is a general step-by-step guide to the pieces.</em></p>
 <figure>
   <img src="{{ '/assets/fotos/esquemastep.png' | relative_url }}" alt="Esquema paso a paso">
 </figure>
