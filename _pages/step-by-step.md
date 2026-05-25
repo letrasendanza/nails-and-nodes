@@ -2,7 +2,7 @@
 title: "Step by Step"
 layout: single
 permalink: /step-by-step/
-author_profile: false
+author_profile: true
 classes: wide
 
 sidebar:
