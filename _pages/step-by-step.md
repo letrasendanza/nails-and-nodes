@@ -56,6 +56,25 @@ Antes de entrar en profundidad con el paso a paso, lo primero es lo primero: los
   <li>A veces también he utilizado paneles de madera más pequeños para las leyendas.</li>
 </ul>
 
+</div>
+<div class="home-text-en">
+  <h3>English</h3>
+  <p>Before diving into the step-by-step instructions, first things first: the materials I usually use
+<li> Recycled base. Generally, the bases for all my pieces have been either wood or construction materials that my neighbors were throwing away. I was told it’s either “concrete” or “sheetrock.” </li>
+<li> Flat-headed nails.</li>
+<li> Paint for painting the nails.</li>
+<li> Cotton threads. I usually use size 5 (size 5 crochet thread). 
+<em>size 5 crochet thread</em>). 
+    <a href="https://www.amazon.com/dp/B085VNY9HJ/?coliid=I2R4EKF0J3QGFS&colid=KBVN09QNQKHG&psc=1&ref_=list_c_wl_lv_ov_lig_dp_it" target="_blank">
+    See thread example
+    </a>I especially like them because they’re soft, strong, and don’t tangle easily. This helps me work for hours without cutting myself or irritating my hands as I tighten the threads on the pieces.</li>
+<li> Hammer </li>
+<li> Glue</li>
+<li> Sometimes I’ve also used smaller wooden panels for the legends.</li>
+</ul>
+</div>
+
+
 <h2 id="boceto-digital">Boceto Digital</h2>
 
 <p>
