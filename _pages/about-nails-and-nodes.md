@@ -6,8 +6,6 @@ author_profile: true
 
 ---
 
-<div class="about-nn">
-
 <div class="nn-logo-main">
   <img 
     src="{{ '/assets/fotos/LogoNailsandNodes.png' | relative_url }}" 
@@ -16,7 +14,14 @@ author_profile: true
   >
 </div>
 
-<h2>Sobre Nails and Nodes</h2>
+<div class="language-jump">
+  <a href="#spanish-version">Español</a>
+  <a href="#english-version">English</a>
+</div>
+
+<div id="spanish-version"></div>
+
+<h2 id="sobre-nails-and-nodes">Sobre Nails and Nodes</h2>
 
 <p><strong>Nudos y Nodos</strong>, o <strong>Nails and Nodes</strong>, es un proyecto de arte de datos y humanidades digitales que transforma redes culturales en piezas físicas construidas con hilos, clavos y materiales reutilizados.</p>
 
@@ -34,7 +39,7 @@ author_profile: true
 
 <p>El proyecto combina métodos digitales, investigación histórica y procesos artesanales para convertir los datos en algo tangible y material, pero sobre todo en algo profundamente humano y emocional.</p>
 
-<h2>¿Qué es el Hilorama de Datos?</h2>
+<h2 id="hilorama-de-datos">¿Qué es el Hilorama de Datos?</h2>
 
 <p>El <strong>Hilorama de Datos</strong> (<em>Data String Art</em>) es una práctica original de investigación-creación. Todo comienza en el archivo: programas de teatro, notas de prensa, fotografías, cartas y otros documentos históricos son recopilados, digitalizados y organizados para reconstruir las relaciones entre personas, espacios culturales y eventos artísticos.</p>
 
@@ -55,7 +60,7 @@ author_profile: true
 
 <p>Cada pieza se construye manualmente tensando hilo entre distintos puntos para reconstruir físicamente las relaciones descubiertas durante la investigación digital.</p>
 
-<h2>Del archivo al hilo</h2>
+<h2 id="del-archivo-al-hilo">Del archivo al hilo</h2>
 
 <p>Cada pieza de Nails and Nodes nace en el archivo.</p>
 
@@ -73,7 +78,7 @@ author_profile: true
 
 <p>Y en esa pausa aparecen nuevas preguntas.</p>
 
-<h2>¿Por qué materializar los datos?</h2>
+<h2 id="materializar-datos">¿Por qué materializar los datos?</h2>
 
 <p>Nails and Nodes no busca reemplazar la visualización digital, sino explorar qué ocurre cuando los datos abandonan la pantalla y entran en el espacio físico.</p>
 
@@ -99,7 +104,7 @@ author_profile: true
 <p>Desde esta perspectiva, el Hilorama de Datos no funciona únicamente como una técnica de visualización, sino también como una forma de reflexión crítica sobre los procesos de investigación en humanidades digitales. </p>
 
 
-<h2>Una práctica de memoria, atención y cuidados</h2>
+<h2 id="memoria-y-cuidados">Una práctica de memoria, atención y cuidados</h2>
 
 <p>Más allá del objeto final, cada pieza representa un ejercicio de atención sostenida.</p>
 
@@ -125,6 +130,8 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 </div>
 
 <hr class="language-divider">
+
+<div id="english-version"></div>
 
 <h1 class="english-title">English Version</h1>
 
@@ -234,6 +241,24 @@ A través de esta combinación de archivos, datos, visualización y trabajo manu
 
 </div>
 
+.language-jump {
+  text-align: center;
+  margin: 2rem auto 4rem auto;
+}
+
+.language-jump a {
+  display: inline-block;
+  margin: 0.4rem;
+  padding: 0.6rem 1.2rem;
+  border: 1px solid #ccc;
+  border-radius: 30px;
+  text-decoration: none;
+  font-weight: 700;
+}
+
+.language-jump a:hover {
+  background: #f4f4f4;
+}
 <style>
 
 .about-nn {
