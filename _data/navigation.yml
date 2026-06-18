@@ -1,9 +1,26 @@
 main:
   - title: "Blog"
     url: /blog/
-
+    
   - title: "About Nails and Nodes"
-    url: /about-nails-and-nodes/
+    children:
+      - title: "Español"
+        url: /about-nails-and-nodes/#spanish-version
+
+      - title: "English"
+        url: /about-nails-and-nodes/#english-version
+
+      - title: "Hilorama de Datos"
+        url: /about-nails-and-nodes/#hilorama-de-datos
+
+      - title: "Del archivo al hilo"
+        url: /about-nails-and-nodes/#del-archivo-al-hilo
+
+      - title: "Materializar datos"
+        url: /about-nails-and-nodes/#materializar-datos
+
+      - title: "Memoria y cuidados"
+        url: /about-nails-and-nodes/#memoria-y-cuidados
 
   - title: "Step by Step"
     url: /step-by-step/
